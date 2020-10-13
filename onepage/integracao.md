@@ -13,6 +13,11 @@ Nas preocupações relacionadas à integração da construção incluem o planej
 Na construção, uma atividade fundamental é a integração de rotinas, classes construídas individualmente, componentes e subsistemas em um único sistema.[1] Um sistema de software pode precisar ser integrado a outro software ou sistema de hardware. Ao construir e integrar uma unidade de cada vez, o processo de construção pode fornecer feedback para os desenvolvedores e clientes.[2]
 
 Referências
+
 [1] P. Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
+
+
 [2] Guia de Implementação – Parte 4: Fundamentação para Implementação do Nível D do MR-MPS-SW:2016; https://www.softex.br/wp-content/uploads/2018/11/Guia-de-Implementação-de-Software-–-Parte-04.pdf.
+
+
 [3] MPS.BR - Melhoria de Processo do Software Brasileiro - Guia Geral MPS de Software; https://softex.br/mpsbr/guias/#guia-sw.
