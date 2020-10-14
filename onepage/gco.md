@@ -20,5 +20,7 @@ Assim como no MPS.BR, para o Swebok, o GCO é composto por atividades de gerenci
 #### Referências
 
 [1] P. Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
+
 [2] Guia Geral MPS de Software - Maio 2020. Disponível em: https://softex.br/mpsbr/guias/#guia-sw. Acesso em: 10 de Outubro de 2020.
+
 [3] Norma ISO/IEC 33001:2015 INTERNATIONAL ORGANIZATION FOR STANDARDIZATION/INTERNATIONAL ELECTROTECHNICAL COMISSION. ISO/IEC 33001:2015 Information Technology - Process Assessment –Concepts and Terminology, Geneve: ISO, 2015. Disponível em https://www.iso.org/standard/54175.html
