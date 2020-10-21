@@ -9,12 +9,13 @@ Segundo o MPS BR, a fase de Projeto/Construção de Software tem como principal 
 Para o SWEBOK, a área de conhecimento da engenharia de software denomindada "Construção" é bem abrangente, se relacionamento muito, principalmente, com as áres de "Design" e "Teste". Isso se dá pois o termo "construção de software" está interligado as atividades: codificar, verificar, testar (testes unitários e de integração) e debuggar.
 
 De todo o ciclo de vida do Software, a etapa mais essencial é a construção, onde realmente as ideias são transformadas em código-fonte que por sua vez é o núcleo do software. Porém "Construção" não se resume apenas em codificar, pois acaba se ligando a várias outras áreas da Engenharia de Software, como mostra a definição das subcategorias do SWEBOK para a construção de Software:
-![Image of Yaktocat](http://igti.com.br/blog/wp-content/uploads/2017/10/PSI.png)
+![Figura 1 - Referente a Figura 3.1 Swebok 3](https://raw.githubusercontent.com/Murilo001/integracao/master/media/ImagemConstrucaoSwebok.PNG)
+*Figura 1: Tópicos da Construção de Software. (Fonte: SWEBOK V3, 2014)*
 
 ## Referências
+
+P. Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org. Acesso em: 05 de Outubro de 2020.
 
 Guia Geral MPS de Software - Maio 2020. Disponível em: https://softex.br/mpsbr/guias/#guia-sw. Acesso em: 05 de Outubro de 2020.
 
 Entenda o SWEBOK, principal referência na Engenharia de Software. Disponível em: https://www.igti.com.br/blog/swebok-referencia-na-engenharia-de-software/. Acesso em: 05 de Outubro de 2020.
-
-SWEBOK. Guide to the Software Engineering Body of Knowledge. 2004 Version.project of the IEEE Computer Society Professional Practices Committee. Disponível em: http://www.swebok.org/. Acesso em: 05 de Outubro de 2020.
