@@ -16,4 +16,5 @@ na sala [virtual](https://meet.google.com/lookup/b53ap7ppm2).
 - [T08](./topicos/08.md) (data limite: **21/10/2020 23h59min59s**)
 - [T09](./topicos/09.md) (data limite: **26/10/2020 23h59min59s**)
 - [T10](./topicos/10.md) (data limite: **27/10/2020 23h59min59s**)
+- [T11](./topicos/11.md) (data limite: **02/11/2020 23h59min59s**)
 
