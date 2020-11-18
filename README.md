@@ -21,4 +21,5 @@ na sala [virtual](https://meet.google.com/lookup/b53ap7ppm2).
 - [T13](./topicos/13.md) (data limite: **13/11/2020 23h59min59s**)
 - [T14](./topicos/14.md) (data limite: **25/11/2020 23h59min59s**)
 - [T15](./topicos/15.md) (data limite: **02/12/2020 23h59min59s**)
+- 19h16min - 18/11/2020 - sessão interrompida - nenhum estudante presente
 
