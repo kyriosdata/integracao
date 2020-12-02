@@ -22,4 +22,7 @@ na sala [virtual](https://meet.google.com/lookup/b53ap7ppm2).
 - [T14](./topicos/14.md) (data limite: **25/11/2020 23h59min59s**)
 - [T15](./topicos/15.md) (data limite: **02/12/2020 23h59min59s**)
 - 19h16min - 18/11/2020 - sessão interrompida - nenhum estudante presente
+- Por motivo superveniente não teremos hoje, 02/12/2020, nosso encontro.
+Naturalmente, dúvidas e outras questões podem ser registradas por meio
+de _issues_.
 
