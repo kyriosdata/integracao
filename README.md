@@ -26,3 +26,12 @@ na sala [virtual](https://meet.google.com/lookup/b53ap7ppm2).
 Naturalmente, dúvidas e outras questões podem ser registradas por meio
 de _issues_.
 
+### Fechamento
+
+Conforme email enviado a todos os estudantes, hoje é nosso 16o. tópico,
+que está focado em esclarecer eventuais dúvidas e/ou conversas com os
+estudantes. Não há previsão para acréscimo de novos tópicos, ou seja,
+estamos concluindo a disciplina por aqui. Não esqueça de registrar via _issue_
+alguma questão pertinente a nota e/ou frequência. 
+
+
